@@ -1,6 +1,9 @@
 author: Bart Schilperoort
+title: LCRDM eWaterCycle Demo
+
+execute:
   execute_notebooks: "off"                           # Replace this if you want don't have notebooks with output and you want to add notebook output during build, configuration part of Jupyter Book (https://jupyterbook.org/en/stable/customize/config.html)
-  
+
 only_build_toc_files: true                           # Replace this with false if you want to build all files in the book, allowing you to refer to pages which are not included in the table of contents, configuration part of jupyterbook: https://jupyterbook.org/en/stable/customize/config.html
 
 sphinx:                                              # Options passed on to the underlying sphinx-parser
