@@ -2,5 +2,6 @@ format: jb-book
 root: intro.md
 
 parts:
-  chapters:
-  - file: example_model_run_HBV.ipynb
+  - caption: Contents
+    chapters:
+    - file: example_model_run_HBV.ipynb
