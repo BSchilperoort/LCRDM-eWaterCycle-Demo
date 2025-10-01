@@ -18,7 +18,7 @@ sphinx:                                              # Options passed on to the 
       use_thebe_lite: true                           # Required for live code, part of TeachBooks-Sphinx-Thebe (https://teachbooks.io/manual/features/live_code.html)
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"] #exclude files which should not be accessible for live code, configuration part of TeachBooks-Sphinx-Thebe (https://teachbooks.io/manual/features/live_code.html)
     html_favicon: "figures/TB_favicon.ico"           # Replace this with your own favicon, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
-    html_baseurl:  "https://<user/org>.io/<repo>"    # Replace this with your own URL, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
+    html_baseurl:  "https://bschilperoort.github.io/LCRDM-eWaterCycle-Demo"    # Replace this with your own URL, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
     html_theme_options:
       logo:
         text:        eWaterCycle                        # Replace this with your own book title, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
@@ -31,7 +31,7 @@ sphinx:                                              # Options passed on to the 
       use_repository_button: false                    # Replace with false if you don't want the repository button (i.e. if you have a private repo), configuration part of Jupyter Book (https://jupyterbook.org/en/stable/customize/config.html)
       use_issues_button :    false                    # Replace with false if you don't want the issues button (i.e. if you don't want to use GitHub issues or have a private repo), configuration part of Jupyter Book (https://jupyterbook.org/en/stable/customize/config.html)
       launch_buttons:
-        jupyterhub_url: https://aecfr.excited-exchang.src.surf-hosted.nl/
+        jupyterhub_url: https://lcrdm.ewatercycle-tud.src.surf-hosted.nl
         notebook_interface: "jupyterlab"
         thebe: false
     html_show_copyright:   false                     # As the copyright is included in the author field, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
