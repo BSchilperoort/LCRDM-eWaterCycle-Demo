@@ -31,7 +31,7 @@ sphinx:                                              # Options passed on to the 
       use_repository_button: false                    # Replace with false if you don't want the repository button (i.e. if you have a private repo), configuration part of Jupyter Book (https://jupyterbook.org/en/stable/customize/config.html)
       use_issues_button :    false                    # Replace with false if you don't want the issues button (i.e. if you don't want to use GitHub issues or have a private repo), configuration part of Jupyter Book (https://jupyterbook.org/en/stable/customize/config.html)
       launch_buttons:
-        jupyterhub_url: https://lcrdm.ewatercycle-tud.src.surf-hosted.nl
+        jupyterhub_url: https://lcrdm.ewatercycle-tud.src.surf-hosted.nl/jupyter
         notebook_interface: "jupyterlab"
         thebe: false
     html_show_copyright:   false                     # As the copyright is included in the author field, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
