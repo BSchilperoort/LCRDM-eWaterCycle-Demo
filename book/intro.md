@@ -1,6 +1,4 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the LCRDM eWaterCycle Demo
 
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Please continue to the [example notebook](example_model_run_HBV.ipynb) and connect the Jupyter server to continue.
